@@ -9,7 +9,6 @@ Your score will go up when you correctly click a picture you haven't clicked yet
 Welcome to the Marutaro memory game! This is a simple memory game built with React. There will be twelve pictures of Instragram-famous shiba inu Marutaro when you load the app. The object of the game is to click on each picture just once. The catch is, once you click a picture the order of the pictures displayed will be randomized, so you have to remember which is which.
 
 To learn more about Maru, check out [this article](http://time.com/4005066/maru-shiba-inu-best-dog/).
-.
 
 ## Running this App
 
